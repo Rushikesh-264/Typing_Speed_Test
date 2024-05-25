@@ -14,9 +14,11 @@ This Typing Test Project is a Python application built using Tkinter. It allows 
 Screenshots
 ============
 
-![Screenshot 2024-05-23 214135](https://github.com/Rushikesh-264/Typing_test/assets/150276077/5a2cefcd-866e-4a5c-aafa-e8cf3069008f)
+![Screenshot 2024-05-25 185807](https://github.com/Rushikesh-264/Typing_Speed_Test/assets/150276077/df8f98bc-aa8f-47e5-8b26-c4fef030901d)
 
-![Screenshot 2024-05-23 214229](https://github.com/Rushikesh-264/Typing_test/assets/150276077/d11c44be-a40a-496d-818f-11a2b7dfe0e4)
+
+![Screenshot 2024-05-25 185759](https://github.com/Rushikesh-264/Typing_Speed_Test/assets/150276077/06af9df9-6e01-4a30-a996-51b657f6041a)
+
 
 
 
