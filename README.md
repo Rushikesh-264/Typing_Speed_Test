@@ -8,7 +8,7 @@ This Typing Test Project is a Python application built using Tkinter. It allows 
 - Typing speed measurement
 - Accuracy assessment
 - Performance tracking
-- Access to previous typing histor
+- Access to previous typing history.
 
 
 Screenshots
